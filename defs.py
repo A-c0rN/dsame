@@ -54,6 +54,7 @@ FIPS_DIVN={
 
 US_SAME_AREA={
     'LOCATION' : 'US',
+    '00' : 'United States",
     '01' : 'Alabama',
     '02' : 'Alaska',
     '04' : 'Arizona',
@@ -217,6 +218,7 @@ CA_SAME_AREA={
 }
 
 US_SAME_CODE={
+    '00000' : 'Entire Country',
     '01001' : 'Autauga',
     '01003' : 'Baldwin',
     '01005' : 'Barbour',
